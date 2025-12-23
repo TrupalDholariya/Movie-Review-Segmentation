@@ -3,6 +3,11 @@
 An AI-powered sentiment classification system that analyzes movie reviews and segments them into **positive or negative sentiment** using Natural Language Processing (NLP) and machine learning.
 
 This project demonstrates how text data can be transformed, learned, and classified by a model to understand human sentiment — a core task in NLP.
+## 🔗 Live Demo (Streamlit App)
+
+You can interact with the Laptop Price Predictor through the Streamlit web application:
+
+👉 *Live Demo:* https://movie-review-segmentation-uwyfrkeovyrffwqxkuwdv7.streamlit.app/
 
 ---
 
